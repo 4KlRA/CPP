@@ -7,8 +7,8 @@ int main() {
         int i {};
     cin >> i;
 
-    cout << "Double of " << i << " is " << i * 2 << endl;
-    cout << "Triple of " << i << " is " << i * 3 << endl;
+    cout << "Double of " << i << " is " << i * 2 << "\n";
+    cout << "Triple of " << i << " is " << i * 3 << "\n";
 
     return 0;
 }
